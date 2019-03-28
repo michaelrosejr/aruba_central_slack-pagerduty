@@ -1,0 +1,21 @@
+{
+    "alert_type": "AP disconnected",
+    "description": "AP with Name AP1-1FL-Office and MAC address 90:4c:81:c1:33:82 disconnected, Group:917, Site:SammamishOffice",
+    "timestamp": 1553760927,
+    "webhook": "78e44ae9-0446-4a12-b4ee-2429b7b77a22",
+    "setting_id": "5001338-4",
+    "state": "Open",
+    "nid": 4,
+    "details": {
+        "_rule_number": "0",
+        "group": "2",
+        "labels": "6",
+        "conn_status": "disconnected",
+        "params": ["AP1-1FL-Office", "90:4c:81:c1:33:44"],
+        "time": "2019-03-28 08:15:27 UTC"
+    },
+    "operation": "create",
+    "device_id": "CNG4K333",
+    "id": "AWnDXj-PwwyPCYMZt3eK",
+    "severity": "Critical"
+}
